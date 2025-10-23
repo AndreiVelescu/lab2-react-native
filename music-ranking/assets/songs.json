@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Around the World",
+    "artist": "Daft Punk",
+    "image": "images/around.jpg",
+    "description": "A funky loop-driven classic from Daft Punk’s debut album."
+  },
+  {
+    "id": 2,
+    "title": "Harder, Better, Faster, Stronger",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Harder,_Better,_Faster,_Stronger.jpg",
+    "description": "Iconic robotic vocals and groovy synth rhythm."
+  },
+  {
+    "id": 3,
+    "title": "Get Lucky",
+    "artist": "Daft Punk ft. Pharrell Williams",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Daft_Punk_-_Get_Lucky.jpg",
+    "description": "A smooth disco hit celebrating the feeling of connection and rhythm."
+  },
+  {
+    "id": 4,
+    "title": "One More Time",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/One_More_Time_Daft_Punk.jpg",
+    "description": "A euphoric anthem blending house and pop, one of Daft Punk’s most iconic tracks."
+  },
+  {
+    "id": 5,
+    "title": "Digital Love",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Digital_Love.jpg",
+    "description": "A dreamy mix of electronic melodies and nostalgic emotion."
+  },
+  {
+    "id": 6,
+    "title": "Robot Rock",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/Daft_Punk_-_Robot_Rock.jpg",
+    "description": "Heavy guitar riffs mixed with robotic vocals – a pure electronic rock jam."
+  },
+  {
+    "id": 7,
+    "title": "Lose Yourself to Dance",
+    "artist": "Daft Punk ft. Pharrell Williams",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Lose_Yourself_to_Dance.jpg",
+    "description": "A groovy follow-up to 'Get Lucky' with funky rhythm and smooth vocals."
+  },
+  {
+    "id": 8,
+    "title": "Instant Crush",
+    "artist": "Daft Punk ft. Julian Casablancas",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Daft_Punk_-_Instant_Crush.png",
+    "description": "A melancholic yet catchy synth-rock fusion with The Strokes’ frontman."
+  },
+  {
+    "id": 9,
+    "title": "Veridis Quo",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Daft_Punk_-_Veridis_Quo.png",
+    "description": "An emotional, instrumental piece from Discovery that feels timeless and cinematic."
+  },
+  {
+    "id": 10,
+    "title": "Something About Us",
+    "artist": "Daft Punk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/8b/Something_About_Us_single.jpg",
+    "description": "A soft, romantic track that showcases Daft Punk’s emotional side."
+  }
+]
